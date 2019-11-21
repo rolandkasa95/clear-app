@@ -13,7 +13,7 @@
 ### Optional
 
 You can also create a file named `.obsolete.config.js` with personalized params, such as
-```json
+```json5
 {
     "checkFileExtensions": ["ts","tsx","js","jsx"], // fileExtensions checked
 	"preDelimiter": "/",
