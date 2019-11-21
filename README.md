@@ -3,6 +3,10 @@
 
 1. Node ^8.0.0
 
+## What is this
+
+This is a project that wil ltell you if you have unused files in the project
+
 ## Installation
 
 1. Install dependencies: `npm install`
