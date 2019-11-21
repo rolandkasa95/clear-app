@@ -1,0 +1,17 @@
+{
+  "name": "unused",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "eol": "^0.9.1"
+  },
+  "bin": {
+    "clear-app": "./app.js"
+  }
+}

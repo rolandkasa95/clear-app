@@ -1,0 +1,11 @@
+{
+    "checkFileExtensions": ["ts","tsx","js","jsx"],
+	"preDelimiter": "/",
+	"postDelimiter": "'",
+    "protected": ["scss","svg","png"],
+    "whiteList": ["node_modules",".github",".lib-dist",".server-dist",".sim-dist"],
+    "whiteListFiles": ["index"],
+    "onlyEmpty": true,
+    "verbose": true,
+	"andDelete": false
+}
